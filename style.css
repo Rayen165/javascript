@@ -52,3 +52,31 @@ opacity: 1;
 .icon-angry{
     color: yellow;
 }
+h2{
+    font-size: x-large;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+form{
+    
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15vw;
+    border-radius: 6px;
+
+}
+button{all:unset;}
+.icon-upload2{
+ font-size: 30px;
+margin-left: 10px;
+position: relative;
+top: 9px;
+
+}
+.icon-upload2:hover{
+    font-size: 43px;
+    color: green;
+    cursor: pointer;
+}
